@@ -1,4 +1,4 @@
-**Section 1**-- Basic Excel Analysis
+## **Section 1**-- Basic Excel Analysis
 iPhone Sales Analysis – India
 Overview
 
@@ -44,7 +44,7 @@ India’s iPhone market is launch-driven, promotion-sensitive, and platform-conc
 
 
 
-**Section 2--**
+## **Section 2--**
 🎧 Audio Dataset Analysis Report
 📌 Overview
 
