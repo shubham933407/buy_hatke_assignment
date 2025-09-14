@@ -41,6 +41,9 @@ Conclusion
 
 India’s iPhone market is launch-driven, promotion-sensitive, and platform-concentrated. Flipkart dominates sales, Wednesdays emerge as the strongest buying day, and the iPhone 15 leads as the most popular model. These insights highlight the importance of timing and partnerships in shaping Apple’s success in India.
 
+
+
+
 **Section 2--**
 🎧 Audio Dataset Analysis Report
 📌 Overview
